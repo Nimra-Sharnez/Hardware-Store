@@ -1,0 +1,740 @@
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [] checked out.
+
+Store Inventory: 24 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@4cc77c2e, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@e6ea0c6, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478]
+
+Day 1
+
+Business: Harry is renting 'YardworkTool 5'.  The daily rate is: $3.0. The Store made 28.0 dollars for YardworkTool, with ExtensionCord today because it is rented out for 7 days.
+
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [] checked out.
+
+Store Inventory: 23 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@4cc77c2e, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@e6ea0c6, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478]
+
+Day 2
+
+Regular: Larry is renting 'ConcreteTool 4'.  The daily rate is: $9.0. The Store made 64.0 dollars for ConcreteTool, with ProtectiveGearPackage today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.ConcreteTool@5577140b] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [] checked out.
+
+Store Inventory: 22 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@4cc77c2e, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@e6ea0c6, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478]
+
+Day 3
+
+Casual: Zach is renting 'YardworkTool 2'.  The daily rate is: $3.0. The Store made 13.0 dollars for YardworkTool, with AccessoryKit today because it is rented out for 1 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.ConcreteTool@5577140b] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [] checked out.
+
+Store Inventory: 21 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@4cc77c2e, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@e6ea0c6, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478]
+
+Day 4
+
+Regular: Brad is renting 'ConcreteTool 2'.  The daily rate is: $9.0. The Store made 36.0 dollars for ConcreteTool today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.ConcreteTool@5577140b] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+
+YardworkTool 2 was returned.
+
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.ConcreteTool@e6ea0c6] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [] checked out.
+
+Store Inventory: 21 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@4cc77c2e, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff]
+
+Day 5
+
+Regular: Brad is renting 'YardworkTool 4'.  The daily rate is: $3.0. The Store made 60.0 dollars for YardworkTool, with AccessoryKit, with ProtectiveGearPackage today because it is rented out for 3 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.ConcreteTool@5577140b] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.YardworkTool@383534aa] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [] checked out.
+
+Store Inventory: 20 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@4cc77c2e, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff]
+
+Day 6
+
+Business: Rhonda is renting 'PlumbingTool 1'.  The daily rate is: $6.0. The Store made 112.0 dollars for PlumbingTool, with AccessoryKit today because it is rented out for 7 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.ConcreteTool@5577140b] checked out.
+
+ConcreteTool 4 was returned.
+
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.YardworkTool@383534aa] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+
+Store Inventory: 20 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@4cc77c2e, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.ConcreteTool@5577140b]
+
+Day 7
+
+Regular: Paul is renting 'PlumbingTool 4'.  The daily rate is: $6.0. The Store made 92.0 dollars for PlumbingTool, with AccessoryKit, with ProtectiveGearPackage today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Paul checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7382f612] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.YardworkTool@383534aa] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+
+Store Inventory: 19 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@4cc77c2e, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.ConcreteTool@5577140b]
+
+Day 8
+
+Casual: Kevin is renting 'PaintingTool 2'.  The daily rate is: $2.0. The Store made 20.0 dollars for PaintingTool, with AccessoryKit, with ExtensionCord, with ProtectiveGearPackage today because it is rented out for 1 days.
+
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+
+YardworkTool 5 was returned.
+
+ACTIVE RENTALS: Paul checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7382f612] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.YardworkTool@383534aa] checked out.
+
+YardworkTool 4 was returned.
+
+ACTIVE RENTALS: Kevin checked out: [HardwareStoreSimulation.Tool.PaintingTool@4cc77c2e] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+
+Store Inventory: 20 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.YardworkTool@383534aa]
+
+Day 9
+
+Casual: Kevin is renting 'WoodworkTool 2'.  The daily rate is: $8.0. The Store made 9.0 dollars for WoodworkTool, with ExtensionCord today because it is rented out for 1 days.
+
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7382f612] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+
+Store Inventory: 19 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.YardworkTool@383534aa]
+
+Day 10
+
+Regular: Larry is renting 'YardworkTool 2'.  The daily rate is: $3.0. The Store made 80.0 dollars for YardworkTool, with AccessoryKit, with ProtectiveGearPackage today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7382f612] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc] checked out.
+
+WoodworkTool 2 was returned.
+
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+
+Store Inventory: 19 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc]
+
+Day 11
+
+Business: Gary is renting 'WoodworkTool 2'.  The daily rate is: $8.0. The Store made 182.0 dollars for WoodworkTool, with AccessoryKit, with ExtensionCord, with ProtectiveGearPackage today because it is rented out for 7 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7382f612] checked out.
+
+PlumbingTool 4 was returned.
+
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+
+Store Inventory: 19 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7382f612]
+
+Day 12
+
+Casual: Zach is renting 'YardworkTool 4'.  The daily rate is: $3.0. The Store made 13.0 dollars for YardworkTool, with AccessoryKit today because it is rented out for 1 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [HardwareStoreSimulation.Tool.YardworkTool@383534aa] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+
+Store Inventory: 18 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.PlumbingTool@7382f612]
+
+Day 13
+
+Casual: Norman is renting 'YardworkTool 5'.  The daily rate is: $3.0. The Store made 28.0 dollars for YardworkTool, with AccessoryKit, with ExtensionCord today because it is rented out for 2 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [HardwareStoreSimulation.Tool.YardworkTool@383534aa] checked out.
+
+YardworkTool 4 was returned.
+
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+
+PlumbingTool 1 was returned.
+
+
+Store Inventory: 19 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5]
+
+Day 14
+
+Regular: Brad is renting 'WoodworkTool 1'.  The daily rate is: $8.0. The Store made 64.0 dollars for WoodworkTool, with ExtensionCord, with ProtectiveGearPackage today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+
+YardworkTool 2 was returned.
+
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Rhonda checked out: [] checked out.
+
+Store Inventory: 19 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@2e5c649, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff]
+
+Day 15
+
+Business: Rhonda is renting 'PlumbingTool 2'.  The daily rate is: $6.0. The Store made 49.0 dollars for PlumbingTool, with ExtensionCord today because it is rented out for 7 days.
+
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+
+YardworkTool 5 was returned.
+
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@2e5c649] checked out.
+
+Store Inventory: 19 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5]
+
+Day 16
+
+Business: Rhonda is renting 'ConcreteTool 1'.  The daily rate is: $9.0. The Store made 156.0 dollars for ConcreteTool, with AccessoryKit, with ProtectiveGearPackage today because it is rented out for 6 days.
+
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.ConcreteTool@3caeaf62] checked out.
+
+Store Inventory: 18 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5]
+
+Day 17
+
+Business: Rhonda is renting 'WoodworkTool 3'.  The daily rate is: $8.0. The Store made 45.0 dollars for WoodworkTool, with ExtensionCord today because it is rented out for 5 days.
+
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.WoodworkTool@2437c6dc] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83] checked out.
+
+Store Inventory: 17 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5]
+
+Day 18
+
+Business: Gary is renting 'PaintingTool 5'.  The daily rate is: $2.0. The Store made 14.0 dollars for PaintingTool today because it is rented out for 7 days.
+
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1] checked out.
+
+WoodworkTool 1 was returned.
+
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83] checked out.
+
+Store Inventory: 17 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1]
+
+Day 19
+
+Regular: Larry is renting 'YardworkTool 5'.  The daily rate is: $3.0. The Store made 12.0 dollars for YardworkTool today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83] checked out.
+
+Store Inventory: 16 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1]
+
+Day 20
+
+Regular: Brad is renting 'YardworkTool 2'.  The daily rate is: $3.0. The Store made 16.0 dollars for YardworkTool, with ExtensionCord today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83] checked out.
+
+Store Inventory: 15 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1]
+
+Day 21
+
+Business: Florence is renting 'YardworkTool 1'.  The daily rate is: $3.0. The Store made 21.0 dollars for YardworkTool today because it is rented out for 7 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [HardwareStoreSimulation.Tool.YardworkTool@61064425] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83] checked out.
+
+Store Inventory: 14 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1]
+
+Day 22
+
+Regular: Santos is renting 'PlumbingTool 1'.  The daily rate is: $6.0. The Store made 24.0 dollars for PlumbingTool today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4] checked out.
+ACTIVE RENTALS: Santos checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [HardwareStoreSimulation.Tool.YardworkTool@61064425] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83] checked out.
+
+WoodworkTool 3 was returned.
+
+
+Store Inventory: 14 items: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83]
+
+Day 23
+
+Business: Harry is renting 'PaintingTool 1'.  The daily rate is: $2.0. The Store made 133.0 dollars for PaintingTool, with AccessoryKit, with ProtectiveGearPackage today because it is rented out for 7 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+
+YardworkTool 5 was returned.
+
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4] checked out.
+ACTIVE RENTALS: Santos checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [HardwareStoreSimulation.Tool.YardworkTool@61064425] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [] checked out.
+
+Store Inventory: 14 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5]
+
+Day 24
+
+Casual: Dan is renting 'PlumbingTool 4'.  The daily rate is: $6.0. The Store made 34.0 dollars for PlumbingTool, with AccessoryKit, with ExtensionCord today because it is rented out for 2 days.
+
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7382f612] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4] checked out.
+ACTIVE RENTALS: Santos checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+
+YardworkTool 2 was returned.
+
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [HardwareStoreSimulation.Tool.YardworkTool@61064425] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [] checked out.
+
+Store Inventory: 14 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff]
+
+Day 25
+
+Regular: Larry is renting 'YardworkTool 5'.  The daily rate is: $3.0. The Store made 56.0 dollars for YardworkTool, with AccessoryKit, with ExtensionCord today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Dan checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7382f612] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4] checked out.
+
+PaintingTool 5 was returned.
+
+ACTIVE RENTALS: Santos checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [HardwareStoreSimulation.Tool.YardworkTool@61064425] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [] checked out.
+
+Store Inventory: 14 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4]
+
+Day 26
+
+Business: Rhonda is renting 'PlumbingTool 5'.  The daily rate is: $6.0. The Store made 161.0 dollars for PlumbingTool, with AccessoryKit, with ProtectiveGearPackage today because it is rented out for 7 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Dan checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7382f612] checked out.
+
+PlumbingTool 4 was returned.
+
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+
+PlumbingTool 1 was returned.
+
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [HardwareStoreSimulation.Tool.YardworkTool@61064425] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@1055e4af] checked out.
+
+Store Inventory: 15 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5]
+
+Day 27
+
+Casual: Zach is renting 'ConcreteTool 5'.  The daily rate is: $9.0. The Store made 9.0 dollars for ConcreteTool today because it is rented out for 1 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [HardwareStoreSimulation.Tool.YardworkTool@61064425] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@1055e4af] checked out.
+
+Store Inventory: 14 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5]
+
+Day 28
+
+Casual: Kevin is renting 'YardworkTool 4'.  The daily rate is: $3.0. The Store made 21.0 dollars for YardworkTool, with AccessoryKit, with ExtensionCord, with ProtectiveGearPackage today because it is rented out for 1 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478] checked out.
+
+ConcreteTool 5 was returned.
+
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [HardwareStoreSimulation.Tool.YardworkTool@383534aa] checked out.
+ACTIVE RENTALS: Florence checked out: [HardwareStoreSimulation.Tool.YardworkTool@61064425] checked out.
+
+YardworkTool 1 was returned.
+
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@1055e4af] checked out.
+
+Store Inventory: 15 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@61064425]
+
+Day 29
+
+Casual: Zach is renting 'PlumbingTool 1'.  The daily rate is: $6.0. The Store made 24.0 dollars for PlumbingTool, with AccessoryKit, with ExtensionCord, with ProtectiveGearPackage today because it is rented out for 1 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@6bc168e5] checked out.
+
+YardworkTool 5 was returned.
+
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [] checked out.
+ACTIVE RENTALS: Zach checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [HardwareStoreSimulation.Tool.YardworkTool@383534aa] checked out.
+
+YardworkTool 4 was returned.
+
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@1055e4af] checked out.
+
+Store Inventory: 16 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.PaintingTool@39a054a5, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.YardworkTool@383534aa]
+
+Day 30
+
+Regular: Santos is renting 'PaintingTool 4'.  The daily rate is: $2.0. The Store made 48.0 dollars for PaintingTool, with AccessoryKit today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [HardwareStoreSimulation.Tool.PaintingTool@12bb4df8] checked out.
+
+PaintingTool 1 was returned.
+
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [] checked out.
+ACTIVE RENTALS: Santos checked out: [HardwareStoreSimulation.Tool.PaintingTool@39a054a5] checked out.
+ACTIVE RENTALS: Zach checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5] checked out.
+
+PlumbingTool 1 was returned.
+
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@1055e4af] checked out.
+
+Store Inventory: 17 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.PlumbingTool@7382f612, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5]
+
+Day 31
+
+Business: Gary is renting 'PlumbingTool 4'.  The daily rate is: $6.0. The Store made 161.0 dollars for PlumbingTool, with AccessoryKit, with ProtectiveGearPackage today because it is rented out for 7 days.
+
+ACTIVE RENTALS: Larry checked out: [] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7382f612] checked out.
+ACTIVE RENTALS: Santos checked out: [HardwareStoreSimulation.Tool.PaintingTool@39a054a5] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@1055e4af] checked out.
+
+Store Inventory: 16 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.YardworkTool@299a06ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5]
+
+Day 32
+
+Regular: Larry is renting 'YardworkTool 3'.  The daily rate is: $3.0. The Store made 56.0 dollars for YardworkTool, with AccessoryKit, with ExtensionCord today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@299a06ac] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.PlumbingTool@7382f612] checked out.
+ACTIVE RENTALS: Santos checked out: [HardwareStoreSimulation.Tool.PaintingTool@39a054a5] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@1055e4af] checked out.
+
+Store Inventory: 15 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5]
+
+Day 33
+
+Business: Gary is renting 'WoodworkTool 1'.  The daily rate is: $8.0. The Store made 130.0 dollars for WoodworkTool, with AccessoryKit, with ExtensionCord, with ProtectiveGearPackage today because it is rented out for 5 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@299a06ac] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1] checked out.
+ACTIVE RENTALS: Santos checked out: [HardwareStoreSimulation.Tool.PaintingTool@39a054a5] checked out.
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [HardwareStoreSimulation.Tool.PlumbingTool@1055e4af] checked out.
+
+PlumbingTool 5 was returned.
+
+
+Store Inventory: 15 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af]
+
+Day 34
+
+Regular: Brad is renting 'YardworkTool 2'.  The daily rate is: $3.0. The Store made 56.0 dollars for YardworkTool, with AccessoryKit, with ExtensionCord today because it is rented out for 4 days.
+
+ACTIVE RENTALS: Larry checked out: [HardwareStoreSimulation.Tool.YardworkTool@299a06ac] checked out.
+ACTIVE RENTALS: Dan checked out: [] checked out.
+ACTIVE RENTALS: Harry checked out: [] checked out.
+ACTIVE RENTALS: Paul checked out: [] checked out.
+ACTIVE RENTALS: Gary checked out: [HardwareStoreSimulation.Tool.WoodworkTool@6ed3ef1] checked out.
+ACTIVE RENTALS: Santos checked out: [HardwareStoreSimulation.Tool.PaintingTool@39a054a5] checked out.
+
+PaintingTool 4 was returned.
+
+ACTIVE RENTALS: Zach checked out: [] checked out.
+ACTIVE RENTALS: Brad checked out: [HardwareStoreSimulation.Tool.YardworkTool@7b1d7fff] checked out.
+ACTIVE RENTALS: Kevin checked out: [] checked out.
+ACTIVE RENTALS: Florence checked out: [] checked out.
+ACTIVE RENTALS: Norman checked out: [] checked out.
+ACTIVE RENTALS: Rhonda checked out: [] checked out.
+
+Store Inventory: 15 items: [HardwareStoreSimulation.Tool.PaintingTool@7a7b0070, HardwareStoreSimulation.Tool.WoodworkTool@e73f9ac, HardwareStoreSimulation.Tool.PlumbingTool@136432db, HardwareStoreSimulation.Tool.ConcreteTool@6a38e57f, HardwareStoreSimulation.Tool.ConcreteTool@5577140b, HardwareStoreSimulation.Tool.WoodworkTool@1f89ab83, HardwareStoreSimulation.Tool.PaintingTool@71bc1ae4, HardwareStoreSimulation.Tool.ConcreteTool@1c6b6478, HardwareStoreSimulation.Tool.YardworkTool@61064425, HardwareStoreSimulation.Tool.YardworkTool@6bc168e5, HardwareStoreSimulation.Tool.YardworkTool@383534aa, HardwareStoreSimulation.Tool.PaintingTool@12bb4df8, HardwareStoreSimulation.Tool.PlumbingTool@7b3300e5, HardwareStoreSimulation.Tool.PlumbingTool@1055e4af, HardwareStoreSimulation.Tool.PaintingTool@39a054a5]
+
+Day 35
+
+Regular: Brad is renting 'YardworkTool 5'.  The daily rate is: $3.0. The Store made 12.0 dollars for YardworkTool, with ExtensionCord today because it is rented out for 3 days.
+
