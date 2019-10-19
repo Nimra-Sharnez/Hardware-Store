@@ -18,3 +18,4 @@ For this, we utilized the Strategy Pattern, The Decorator Pattern, Factory Patte
 
 # Start & Settings
 We used Eclipse IDE to create this and java8. 
+To run, download main file onto Eclipse and run.
